@@ -340,3 +340,9 @@ body.preloader-site {
 
 .white
 {color:ghostwhite}
+
+#subtitle {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
